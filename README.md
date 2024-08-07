@@ -1,2 +1,3 @@
 # Market-Engine-AI
-End-to-End System for Financial Sentiment Analysis
+Building a custom NLP model and full-stack application for financial sentiment analysis, featuring an optimized data pipeline and interactive visualizations. 
+
